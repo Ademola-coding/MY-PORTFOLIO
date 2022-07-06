@@ -1,18 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 
-# A Portfolio Project
+# My Portfolio
 > Description the project.
-
-
-image
 
 
 ## Built With
 
 - HTML
 - CSS
-
 
 
 ## Author
